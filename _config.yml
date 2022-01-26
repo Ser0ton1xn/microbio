@@ -1,5 +1,5 @@
-title: Selman Waksman - An Impact on Microbiology 
-description: A hub for Selman Waksman! Created by Samiha Nasrin for Microbiology with Dr.Mahmoud. 
+title: Selman Waksman
+description: A hub for Selman Waksman! Created by Samiha Nasrin for the Microbiologist Research Project. 
 baseurl: "/"
 url: "https://ser0ton1xn.github.io/microbioproject/"
 
@@ -8,9 +8,9 @@ back_to_top_text: "Back to top"
 
 aux_links:
 "Nobel Piece Prize": 
-- "https://www.nobelprize.org/prizes/medicine/1952/summary/" 
+  - "https://www.nobelprize.org/prizes/medicine/1952/summary/" 
 "My Life with Microbes":
-- "https://archive.org/details/in.ernet.dli.2015.271350/page/n221/mode/2up?view=theater" 
+  - "https://archive.org/details/in.ernet.dli.2015.271350/page/n221/mode/2up?view=theater" 
   
 aux_links_new_tab: true
 
