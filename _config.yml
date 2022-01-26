@@ -8,9 +8,9 @@ back_to_top_text: "Back to top"
 
 aux_links:
 "Nobel Piece Prize": 
-  - "https://www.nobelprize.org/prizes/medicine/1952/summary/" 
+- "https://www.nobelprize.org/prizes/medicine/1952/summary/" 
 "My Life with Microbes":
-  - "https://archive.org/details/in.ernet.dli.2015.271350/page/n221/mode/2up?view=theater" 
+- "https://archive.org/details/in.ernet.dli.2015.271350/page/n221/mode/2up?view=theater" 
   
   aux_links_new_tab: true
 
