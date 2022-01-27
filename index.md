@@ -16,4 +16,4 @@ permalink: /
 
 
 #### Created by Samiha Nasrin.
-{:.text-zeta}
+{:.fs-1}
