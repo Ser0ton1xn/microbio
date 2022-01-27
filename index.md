@@ -7,8 +7,7 @@ permalink: /
 ---
 
 # Welcome!
-{:.text-green-300} 
-{:.float-left} 
+{:.text-green-300}  
 
 👋 Welcome to the homepage for Selman Waksman. Selman Waksman is known as one of the greatest microbiologists of all time! Creating a multitude of antibiotics, Waksman’s work is considered to be revolutionary to say the least. 
 
