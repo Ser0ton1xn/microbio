@@ -24,7 +24,7 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 - If you'd like a more depth guide to punishments, refer to the [Punishment Guide](https://support.bloxstreet.store/guides/punishment-guide.html)
 
 ## Acceptable Reasons
-{: .text-red-300 } 
+{:.text-grey-dk-000}
 
 | Acceptable Reasons | 
 | ------ | 
@@ -63,9 +63,10 @@ Tickets are used in BloxStreet to report various punishments, reports, and more.
 {:.text-green-100} 
 
 ## Unacceptable Reasons 
-{: .text-red-300 } 
+{:.text-grey-dk-000}
 
 | Unacceptable Reasons | 
+| ------ | 
 | Trolling Guests/Customers | 
 | LRs or MRs hinting for a promotion | 
 | Using :view on an SHR | 
