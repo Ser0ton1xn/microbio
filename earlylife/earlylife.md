@@ -9,3 +9,10 @@ permalink: /earlylife
 # Early Life
 
 Here you will find all information regarding Selman Waksman's early life.
+
+| head1        | head two          | three |
+|:-------------|:------------------|:------|
+| ok {:.text-yellow-100} | good swedish fish {:.text-yellow-100} | nice {:.text-yellow-100} |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
