@@ -18,3 +18,4 @@ Before becoming the microbiologist that Waksman once was, he lived through the p
 
 Waksman was born in Novaya-Priluka, Ukraine, on July 22nd, 1988. 
 {:.text-right} 
+{:.float-right} 
